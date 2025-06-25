@@ -1,0 +1,62 @@
+{
+  "title": "mainhall-PA mit Behringer Wing Rack",
+  "subtitle": "für Vortrag mit Mikrofon",
+  "date": "Juni 2025",
+  "sections": [
+    {
+      "title": "Vor dem Event",
+      "items": [
+        {"Behringer Wing Rack-Mixer, Netzschalter": "AN"},
+        {"Verstärker im Mini-Rack": "in Reihenfolge:"},
+	Hinten am Rack Stromleiste an
+	Endstufe 1 (oben) an & warten bis “Temp” (gelb) LEDs aus
+	Endstufe 2 (unten) an & warten bis “Mute” (rot) LEDs aus
+Aktivboxen an bei Bedarf
+	Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)
+Mikrofon / Signalquelle an(schließen)
+	Mikrofon(e) aus Schublade aussuchen
+	Mikrofon 1/2 roter Knopf an (auf Mute achten)
+	Mikrofon 5/6 Funksender an (auf Mute achten)
+	Weitere Signalquelle anschließen
+Show laden
+	“Library” Knopf
+	Auf Touchscreen “Int” auswählen
+	Showfile “brikk_MAINHALL show” antippen
+	“Open” antippen
+Snap laden
+	“SCNS” antippen
+	Snapfile “brikk_MAINHALL snap” antippen
+	“Load” antippen
+	“Confirm”
+PA / Aktiv auf -10 dB
+	“Home” Knopf
+	“Faders” antippen
+	Rechts “Main” antippen
+	PA und/oder Aktiv auf -10 dB am Fader einstellen
+Mikrofone / Signalquelle(n) zusteuern
+	Rechts “1-8” antippen
+	Fader von gewünschtem Mikrofon hochziehen bis zu 0 dB
+	Wenn bei 0 dB nicht laut genug, PA / Aktiv nachregeln (bis 0 dB)
+
+
+
+PA ausschalten
+	Endstufe 2 (unten) aus
+	Endstufe 1 (oben) aus
+	Hinten am Rack Stromleiste an
+Ggf Aktivboxen ausschalten
+Mikrofone ausschalten
+	Ausschalten
+	Zurück in Schublade
+Signalquellen aus/ab
+Show laden
+	“Library” Knopf
+	Auf Touchscreen “Int” auswählen
+	Showfile “brikk_MAINHALL show” antippen
+	“Open” antippen
+Snap laden
+	“SCNS” antippen
+	Snapfile “brikk_MAINHALL snap” antippen
+	“Load” antippen
+	“Confirm”
+Mixer am Netzschalter ausschalten
