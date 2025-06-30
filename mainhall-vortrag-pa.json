@@ -35,7 +35,7 @@
             "condition": "SET"
           },
           {
-            "divider": true,
+            "divider": true
           },
           {
             "description": "WINDOWS / DOORS",
