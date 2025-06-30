@@ -12,7 +12,7 @@
           {"Endstufe 1 (oben) an & warten bis “Temp” (gelb) LEDs ": "AN"},
           {"Endstufe 2 (unten) an & warten bis “Mute” (rot) LEDs ": "AN"},
           {"Aktivboxen an": "NACH BEDARF",
-          "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"},
+          "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"}
         ]
       },{
         "background": "darkblue",
