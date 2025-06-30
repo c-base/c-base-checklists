@@ -1,62 +1,116 @@
 {
-  "title": "mainhall-PA mit Behringer Wing Rack",
-  "subtitle": "für Vortrag mit Mikrofon",
-  "date": "Juni 2025",
-  "sections": [
-    {
-      "title": "Vor dem Event",
-      "items": [
-        {"Behringer Wing Rack-Mixer, Netzschalter": "AN"},
-        {"Verstärker im Mini-Rack": "in Reihenfolge:"},
-	Hinten am Rack Stromleiste an
-	Endstufe 1 (oben) an & warten bis “Temp” (gelb) LEDs aus
-	Endstufe 2 (unten) an & warten bis “Mute” (rot) LEDs aus
-Aktivboxen an bei Bedarf
-	Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)
-Mikrofon / Signalquelle an(schließen)
-	Mikrofon(e) aus Schublade aussuchen
-	Mikrofon 1/2 roter Knopf an (auf Mute achten)
-	Mikrofon 5/6 Funksender an (auf Mute achten)
-	Weitere Signalquelle anschließen
-Show laden
-	“Library” Knopf
-	Auf Touchscreen “Int” auswählen
-	Showfile “brikk_MAINHALL show” antippen
-	“Open” antippen
-Snap laden
-	“SCNS” antippen
-	Snapfile “brikk_MAINHALL snap” antippen
-	“Load” antippen
-	“Confirm”
-PA / Aktiv auf -10 dB
-	“Home” Knopf
-	“Faders” antippen
-	Rechts “Main” antippen
-	PA und/oder Aktiv auf -10 dB am Fader einstellen
-Mikrofone / Signalquelle(n) zusteuern
-	Rechts “1-8” antippen
-	Fader von gewünschtem Mikrofon hochziehen bis zu 0 dB
-	Wenn bei 0 dB nicht laut genug, PA / Aktiv nachregeln (bis 0 dB)
-
-
-
-PA ausschalten
-	Endstufe 2 (unten) aus
-	Endstufe 1 (oben) aus
-	Hinten am Rack Stromleiste an
-Ggf Aktivboxen ausschalten
-Mikrofone ausschalten
-	Ausschalten
-	Zurück in Schublade
-Signalquellen aus/ab
-Show laden
-	“Library” Knopf
-	Auf Touchscreen “Int” auswählen
-	Showfile “brikk_MAINHALL show” antippen
-	“Open” antippen
-Snap laden
-	“SCNS” antippen
-	Snapfile “brikk_MAINHALL snap” antippen
-	“Load” antippen
-	“Confirm”
-Mixer am Netzschalter ausschalten
+    "title": "NORMAL CHECKLIST",
+    "subtitle": "Airbus A319, Airbus A320",
+    "date": "November 2017",
+    "sections": [
+      {
+        "title": "BEFORE START",
+        "items": [
+          {
+            "description": "COCKPIT PREP",
+            "condition": "COMPLETE (BOTH)"
+          },
+          {
+            "description": "GEAR PINS and COVERS",
+            "condition": "REMOVED"
+          },
+          {
+            "description": "SIGNS",
+            "condition": "ON / AUTO",
+          },
+          {
+            "description": "ADIRS",
+            "condition": "NAV",
+          },
+          {
+            "description": "FUEL QUANTITY",
+            "condition": "_____ KG. / BALANCED",
+          },
+          {
+            "description": "TO DATA",
+            "condition": "SET",
+          },
+          {
+            "description": "BARO REF",
+            "condition": "SET",
+          },
+          {
+            "divider": true,
+          },
+          {
+            "description": "WINDOWS / DOORS",
+            "condition": "CLOSED / ARMED (BOTH)",
+          },
+          {
+            "description": "BEACON",
+            "condition": "ON",
+          },
+          {
+            "description": "MOBILE PHONE",
+            "condition": "OFF (BOTH)",
+          },
+          {
+            "description": "THRUST LEVERS",
+            "condition": "IDLE",
+          },
+          {
+            "description": "PARKING BRAKE",
+            "condition": "SET",
+          }
+        ]
+      },
+      {
+        "title": "AFTER START",
+        "background": "hotpink",
+        "items": [
+          {
+            "description": "ANTI ICE",
+            "condition": "AS RQRD",
+          },
+          {
+            "description": "ECAM STATUS",
+            "condition": "CHECKED",
+          },
+          {
+            "description": "PITCH TRIM",
+            "condition": "_____% SET",
+          },
+          {
+            "description": "RUDDER TRIM",
+            "condition": "ZERO",
+          }
+        ]
+      },
+      {
+        "title": "BEFORE TAKEOFF",
+        "background": "white",
+        "color": "black",
+        "items": [
+          {
+            "description": "FLT CTL", 
+            "condition": "CHECKED (BOTH"
+          },
+          {
+            "description": "FLT INSTRUMENTS", 
+            "condition": "CHECKED (BOTH)"
+          },
+          {
+            "description": "BRIEFING",
+            "condition": "CONFIRMED"
+          },
+          {
+            "description": "FLAPS SETTING",
+            "condition": "CONF _____ (BOTH)"
+          },
+          {
+            "description": "FMA & TAKEOFF DATA",
+            "condition": "READ (PF)/CHECKED (PNF)"
+          },
+          {
+            "description": "TRANSPONDER",
+            "condition": "SET"
+          }
+        ]
+      }
+   ]
+}
