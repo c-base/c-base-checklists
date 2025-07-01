@@ -55,8 +55,8 @@
         "color": "black",
         "items": [
           {"Rechts “1-8”": "TAP"},
-          {"Fader von gewünschtem Mikrofon hochziehen": "bis zu 0 dB"},
-          {"Wenn bei 0 dB nicht laut genug, PA / Aktiv nachregeln": "(bis 0 dB)"}
+          {"Mikrofon-Kanal": "bis zu 0 dB", "_info": "Fader von gewünschtem Mikrofon hochziehen"},
+          {"PA / Aktiv nachregeln": "(bis 0 dB)", "_info": "Wenn bei -10 dB nicht laut genug"}
         ]
       },{
         "title": "Nach Event: PA & QUELLEN AUS",
