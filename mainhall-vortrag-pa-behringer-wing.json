@@ -1,0 +1,89 @@
+{
+    "subtitle": "mainhall-PA mit Behringer Wing Rack",
+    "title": "Vortrag mit Mikrofonen",
+    "date": "Juli 2025",
+    "sections": [
+      {
+        "title": "ANLAGE EINSCHALTEN",
+        "items": [
+          {"Behringer Wing Rack-Mixer, Netzschalter": "AN"},
+          {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓"},
+          {"Hinten am Rack Stromleiste": "AN"},
+          {"Endstufe 1 (oben)": "AN", "_info": "an & warten bis “Temp” (gelb) LEDs"},
+          {"Endstufe 2 (unten)": "AN", "_info": "an & warten bis “Mute” (rot) LEDs "},
+          {"Aktivboxen an": "NACH BEDARF",
+          "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"}
+        ]
+      },{
+        "background": "darkblue",
+        "title": "MIKROFON / SIGNALQUELLEN an(schließen)",
+        "items": [
+          {"Mikrofon(e) aus Schublade": "RAUSHOLEN"},
+          {"HAND-MIKRO 1/2": "ROTER KNOPF", "_info": "4s drüken, auf Mute achten"},
+          {"HEADSET-MIKRO 5/6": "AN", "_info": "4s drücken, Funksender ggf. aufklappen, auf Mute achten"},
+          {"Weitere Signalquelle anschl.": "NACH BEDARF"},
+          {"Batterien prüfen / ggf. tauschen": "min. 2 BALKEN"}
+        ]
+      },{
+        "background": "orange",
+        "color": "black",
+        "title": "SHOW und SNAP laden",
+        "items": [
+          {"[LIBRARY]-Knopf": "DRÜCKEN"},
+          {"Auf Touchscreen “Int” auswählen": "TAP"},
+          {"Showfile “brikk_MAINHALL show”": "TAP"},
+          {"“Open” ": "TAP"},
+          {"divider": true},
+          {"“SCNS”": "TAP"},
+          {"Snapfile “brikk_MAINHALL snap” ausw.": "TAP"},
+          {"“Load” antippen": "TAP"},
+          {"“Confirm”": "TAP"}
+        ]
+      },{
+        "title": "EINPEGELN: PA / Aktiv auf -10 dB",
+        "background": "orange",
+        "color": "black",
+        "items": [
+          {"[HOME] Knopf": "DRÜCKEN"},
+          {"“Faders”": "TAP"},
+          {"Rechts “Main”": "TAP"},
+          {"PA und/oder Aktiv am Fader einstellen": "- 10 dB"}
+        ]
+      },{
+        "title": "EINPEGELN: Mikrofone",
+        "background": "orange",
+        "color": "black",
+        "items": [
+          {"Rechts “1-8”": "TAP"},
+          {"Mikrofon-Kanal": "bis zu 0 dB", "_info": "Fader von gewünschtem Mikrofon hochziehen"},
+          {"PA / Aktiv nachregeln": "(bis 0 dB)", "_info": "Wenn bei -10 dB nicht laut genug"}
+        ]
+      },{
+        "title": "Nach Event: PA & QUELLEN AUS",
+        "background": "salmon",
+        "color": "black",
+        "items": [
+          {"Endstufe 2 (unten) aus": "AUS"},
+          {"Endstufe 1 (oben) aus": "AUS"},
+          {"Hinten am Rack Stromleiste an": "AUS"},
+          {"Aktivboxen": "AUS"},
+          {"Mikrofone": "AUS/SCHUBLADE"},
+          {"Andere Signalquellen": "AUS/AB"}
+        ]
+      },{
+        "title": "MIXER-RESET und AUSSCHALTEN",
+        "items": [
+          {"“Library” Knopf": "DRÜCKEN"},
+          {"Auf Touchscreen “Int” auswählen": "TAP"},
+          {"Showfile “brikk_MAINHALL show” antippen": "TAP"},
+          {"“Open” antippen": "TAP"},
+          {"“SCNS”": "TAP"},
+          {"Snapfile “brikk_MAINHALL snap” ausw.": "TAP"},
+          {"“Load” antippen": "TAP"},
+          {"“Confirm”": "TAP"},
+          {"divider": true},
+          {"Mixer am Netzschalter": "AUS"}
+        ]
+      }
+    ]
+  }
