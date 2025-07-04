@@ -7,7 +7,7 @@
         "title": "ANLAGE EINSCHALTEN",
         "items": [
           {"Behringer Wing Rack-Mixer, Netzschalter": "AN"},
-          {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓"},
+          {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true},
           {"Hinten am Rack Stromleiste": "AN"},
           {"Endstufe 1 (oben)": "AN", "_info": "an & warten bis “Temp” (gelb) LEDs"},
           {"Endstufe 2 (unten)": "AN", "_info": "an & warten bis “Mute” (rot) LEDs "},
