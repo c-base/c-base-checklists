@@ -40,7 +40,7 @@
         "background": "orange",
         "color": "black",
         "items": [
-          {"[HOME] Knopf": "DRÜCKEN"}
+          {"[HOME] Knopf": "DRÜCKEN"},
           {"“MAIN LR VOLUME” einstellen": "-12dB"}
         ]
       },{
