@@ -6,7 +6,7 @@
       {
         "title": "ANLAGE EINSCHALTEN",
         "items": [
-          {"Behringer Wing Rack-Mixer, Netzschalter": "AN"},
+          {"Behringer X32 Rack-Mixer, Power Knopf": "ON"},
           {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true},
           {"Hinten am Rack Stromleiste": "AN"},
           {"Endstufe 1 (oben)": "AN", "_info": "an & warten bis “Temp” (gelb) LEDs"},
@@ -27,36 +27,32 @@
       },{
         "background": "orange",
         "color": "black",
-        "title": "SHOW und SNAP laden",
+        "title": "SCENE laden",
         "items": [
-          {"[LIBRARY]-Knopf": "DRÜCKEN"},
-          {"Auf Touchscreen “Int” auswählen": "TAP"},
-          {"Showfile “brikk_MAINHALL show”": "TAP"},
-          {"“Open” ": "TAP"},
-          {"divider": true},
-          {"“SCNS”": "TAP"},
-          {"Snapfile “brikk_MAINHALL snap” ausw.": "TAP"},
-          {"“Load” antippen": "TAP"},
-          {"“Confirm”": "TAP"}
+          {"[SCENES]-Knopf": "DRÜCKEN"},
+          {"“Scenes” auswählen": "> DRÜCKEN"},
+          {"Scene 64 “brikk_MAINHALL”": "ENCODER 1"},
+          {"“LOAD” ": "ENCODER 1 DRÜCKEN"},
+          {"“CONFIRM”": "ENCODER 6 DRÜCKEN"}
         ]
       },{
-        "title": "EINPEGELN: PA / Aktiv auf -10 dB",
+        "title": "EINPEGELN: PA auf -12 dB",
         "background": "orange",
         "color": "black",
         "items": [
-          {"[HOME] Knopf": "DRÜCKEN"},
-          {"“Faders”": "TAP"},
-          {"Rechts “Main”": "TAP"},
-          {"PA und/oder Aktiv am Fader einstellen": "- 10 dB"}
+          {"[HOME] Knopf": "DRÜCKEN"}
+          {"“MAIN LR VOLUME” einstellen": "-12dB"}
         ]
       },{
         "title": "EINPEGELN: Mikrofone",
         "background": "orange",
         "color": "black",
         "items": [
-          {"Rechts “1-8”": "TAP"},
-          {"Mikrofon-Kanal": "bis zu 0 dB", "_info": "Fader von gewünschtem Mikrofon hochziehen"},
-          {"PA / Aktiv nachregeln": "(bis 0 dB)", "_info": "Wenn bei -10 dB nicht laut genug"}
+          {"Kanal auswählen”": "ENCODER über 'CHANNEL LEVEL'"},
+          {"Kanal fokussieren": "ENCODER DRÜCKEN"},
+          {"Mikrofon einpegeln": "CHANNEL LEVEL", "_info": "Bis zu 0dB"},
+          {"MAIN LR VOLUME nachregeln": "(bis 0 dB)", "_info": "Wenn bei -10 dB nicht laut genug"},
+          {"Für weitere Mikrofone wiederholen": "Ab 'Kanal auswählen'"}
         ]
       },{
         "title": "Nach Event: PA & QUELLEN AUS",
@@ -73,14 +69,11 @@
       },{
         "title": "MIXER-RESET und AUSSCHALTEN",
         "items": [
-          {"“Library” Knopf": "DRÜCKEN"},
-          {"Auf Touchscreen “Int” auswählen": "TAP"},
-          {"Showfile “brikk_MAINHALL show” antippen": "TAP"},
-          {"“Open” antippen": "TAP"},
-          {"“SCNS”": "TAP"},
-          {"Snapfile “brikk_MAINHALL snap” ausw.": "TAP"},
-          {"“Load” antippen": "TAP"},
-          {"“Confirm”": "TAP"},
+          {"[SCENES]-Knopf": "DRÜCKEN"},
+          {"“Scenes” auswählen": "> DRÜCKEN"},
+          {"Scene 64 “brikk_MAINHALL”": "ENCODER 1"},
+          {"“LOAD” ": "ENCODER 1 DRÜCKEN"},
+          {"“CONFIRM”": "ENCODER 6 DRÜCKEN"},
           {"divider": true},
           {"Mixer am Netzschalter": "AUS"}
         ]
