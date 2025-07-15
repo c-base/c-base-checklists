@@ -45,7 +45,7 @@
     },
     {
       "title": "Starting the program",
-      "item": [
+      "items": [
         {"Rewind the file": null},
         {"Start the program": null},
         {"Monitor the CNC the entire time it's running": null}
