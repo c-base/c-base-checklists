@@ -41,8 +41,8 @@
         {"Make sure touch probe is connected and works": null},
         {"Make sure the height of the touch plate is set ('Gage height')": null},
         {"Consider the radius of the mill bit for positioning ['Probe dia']": null},
-        {"Check the position of the path to fit the available cutting area (first time only)": null},
-        {"Make sure that the file won't make you run into your workholding parts in XY [first time only]": null},
+        {"Check the position of the path to fit the available cutting area": null, "_info":  "(first time only)"},
+        {"Make sure that the file won't make you run into your workholding parts in XY": null, "_info": "[first time only]"},
         {"Hook up dust suction (if applicable]": null},
         {"Get safety goggles and use a hair tie (if applicable)": null}
       ]
