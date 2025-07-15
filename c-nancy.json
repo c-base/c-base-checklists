@@ -18,6 +18,7 @@
     },
     {
       "title": "First time running a job",
+      "background": "orange",
       "items": [
         {"Copy G-code to SSD and open in UCCNC": null},
         {"Check that G28 is removed from beginning and end of the file": null},
