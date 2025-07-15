@@ -5,6 +5,7 @@
   "sections": [
     {
       "title": "Boot the PC",
+      "background": "darkblue",
       "items": [
         {"Switch on the CNC using the main switch": null},
         {"Check if E-Stop is pulled (off)": null},
@@ -53,6 +54,7 @@
     },
     {
       "title": "Shutdown",
+      "background": "salmon",
       "items": [
         {"Clean the machine, focus on the steel (linear] paths and ball screws": null},
         {"Quit UCCNC software": null},
