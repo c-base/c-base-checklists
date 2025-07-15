@@ -5,7 +5,7 @@
   "sections": [
     {
       "title": "Boot the PC",
-      "items" [
+      "items": [
         {"Switch on the CNC using the main switch": null},
         {"Check if E-Stop is pulled (off)": null},
         {"Open UCCNC software": null},
