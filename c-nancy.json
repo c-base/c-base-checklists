@@ -1,0 +1,64 @@
+{
+  "title": "mainhall-PA mit Behringer Wing Rack",
+  "subtitle": "für Vortrag mit Mikrofon",
+  "date": "04 April, 2024",
+  "sections": [
+    {
+      "title": "Boot the PC",
+      "items" [
+        {"Switch on the CNC using the main switch": null},
+        {"Check if E-Stop is pulled (off)": null},
+        {"Open UCCNC software": null},
+        {"Home the machine (G28.1)": null},
+        {"Check if the cooling cycle of the spindle is working": null},
+        {"Camera switched on and adjusted": null},
+        {"Ensure cutting oil level is sufficient and mist injector adjusted properly when cutting metals (if applicable)": null}
+      ]
+    },
+    {
+      "title": "First time running a job",
+      "items": [
+        {"Copy G-code to SSD and open in UCCNC": null},
+        {"Check that G28 is removed from beginning and end of the file": null},
+        {"Ensure that M3 (spindle on) is part of your gcode": null},
+        {"Ensure that M5 (spindle off] is part of your gcode": null},
+        {"Ensure that G4 P.... (dwell for.... milliseconds] is after M3 to make the machine wait": null},
+        {"for the spindle to reach its target RPM": null},
+        {"Check feed rate and speed in the file": null},
+        {"Check actual safe retract height": null}
+      ]
+    },
+    {
+      "title": "Running a job",
+      "items": [
+        {"Insert correct tool into collet and attach to spindle": null},
+        {"Make sure the collet is (actually) screwed in properly": null},
+        {"Set X, Y, Z in work coordinate system": null},
+        {"Make sure touch probe is connected and works": null},
+        {"Make sure the height of the touch plate is set ('Gage height')": null},
+        {"Consider the radius of the mill bit for positioning ['Probe dia']": null},
+        {"Check the position of the path to fit the available cutting area (first time only)": null},
+        {"Make sure that the file won't make you run into your workholding parts in XY [first time only]": null},
+        {"Hook up dust suction (if applicable]": null},
+        {"Get safety goggles and use a hair tie (if applicable)": null}
+      ]
+    },
+    {
+      "title": "Starting the program",
+      "item": [
+        {"Rewind the file": null},
+        {"Start the program": null},
+        {"Monitor the CNC the entire time it's running": null}
+      ]
+    },
+    {
+      "title": "Shutdown",
+      "items": [
+        {"Clean the machine, focus on the steel (linear] paths and ball screws": null},
+        {"Quit UCCNC software": null},
+        {"Switch off the CNC machine using the main switch": null},
+        {"Shut down the computer": null}
+      ]
+    }
+  ]
+}
