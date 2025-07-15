@@ -13,7 +13,8 @@
         {"Home the machine (G28.1)": null},
         {"Check if the cooling cycle of the spindle is working": null},
         {"Camera switched on and adjusted": null},
-        {"Ensure cutting oil level is sufficient and mist injector adjusted properly when cutting metals (if applicable)": null}
+        {"Ensure cutting oil level is sufficient and mist injector adjusted properly when cutting metals": null,
+         "_info": "(if applicable)"}
       ]
     },
     {
