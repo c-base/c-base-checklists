@@ -58,7 +58,7 @@
         "color": "black",
         "items": [
           {"[HOME] Knopf": "DRÜCKEN"},
-          {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "0dB"}
+          {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "0dB"},
           {"divider": true},
           {"Kanal auswählen”": "DREHKNOPF über 'CHANNEL LEVEL'"},
           {"Kanal fokussieren": "DREHKNOPF DRÜCKEN"},
