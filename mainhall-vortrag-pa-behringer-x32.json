@@ -41,14 +41,8 @@
           {"Weitere Signalquelle anschl.": "NACH BEDARF"},
           {"Batterien prüfen / ggf. tauschen": "min. 2 BALKEN"}
         ]
-      },{
-        "background": "orange",
-        "color": "black",
-        "title": "SCENE laden",
-        "items": [
-          
-        ]
-      },{
+      },
+      {
         "title": "EINPEGELN: PA auf -12 dB",
         "background": "orange",
         "color": "black",
