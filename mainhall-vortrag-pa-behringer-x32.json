@@ -15,7 +15,8 @@
         ]
       },
       {
-        "title": "Aktivboxen oder Verstärker EINSCHALTEN",
+        "title": "AKTIVBOXEN oder ENDSTUFEN einschalten",
+        "background": "darkseagreen",
         "items": [
           {
             "Aktivboxen einschalten": "bei VORTRAG",
