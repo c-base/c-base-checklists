@@ -9,7 +9,7 @@
           {"Behringer X32 Rack-Mixer, Power Knopf": "ON"},
           {"[SCENES]-Knopf": "DRÜCKEN"},
           {"“Scenes” auswählen": "> DRÜCKEN"},
-          {"Scene 0 “MAIN-DONT CHANGE” anwählen": "DREHKNOPF 1 drehen"},
+          {"Scene 01 “MAIN-DONT CHANGE” anwählen": "DREHKNOPF 1 drehen"},
           {"“LOAD” ": "DREHKNOPF 1 DRÜCKEN"},
           {"“CONFIRM”": "DREHKNOPF 6 DRÜCKEN"}
         ]
@@ -24,11 +24,11 @@
             "_info": "Netzschalter auf Rückseite der Box - an der Bühne und an Tür zu Arboretum"
           },
           {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true,
-           "_info": "Endstufen nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."},
-          {"Hinten am Rack Stromleiste AN": "für DJ/KONZERT"},
-          {"Endstufe 1 (oben) AN": "für DJ/KONZERT", "_info": "an & warten bis “Temp” (gelb) LEDs"},
+           "_info": "Endstufen nur einschalten, wenn DJ- oder Konzert-Setup benötigt wird."},
+          {"Hinten am Rack Stromleiste AN": "für DJ/KONZERT, AN"},
+          {"Endstufe 1 (oben) AN": "AN", "_info": "Einschalten & warten bis “Temp” (gelb) LEDs ausgehen."},
           {
-            "Endstufe 2 (unten)": "AN", "_info": "an & warten bis “Mute” (rot) LEDs "
+            "Endstufe 2 (unten)": "AN", "_info": "Einschalten & warten bis “Mute” (rot) LEDs ausgehen."
           }
         ]
       },{
@@ -36,7 +36,7 @@
         "title": "MIKROFON / SIGNALQUELLEN an(schließen)",
         "items": [
           {"Mikrofon(e) aus Schublade": "RAUSHOLEN"},
-          {"HAND-MIKRO 1/2": "ROTER KNOPF", "_info": "4s drüken, auf Mute achten"},
+          {"HAND-MIKRO 1/2": "ROTER KNOPF", "_info": "4s drücken, auf Mute achten"},
           {"HEADSET-MIKRO 5/6": "AN", "_info": "4s drücken, Funksender ggf. aufklappen, auf Mute achten"},
           {"Weitere Signalquelle anschl.": "NACH BEDARF"},
           {"Batterien prüfen / ggf. tauschen": "min. 2 BALKEN"}
