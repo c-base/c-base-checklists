@@ -10,7 +10,7 @@
           {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true},
           {
             "Aktivboxen einschalten": "",
-            "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"}
+            "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"},
           {"Hinten am Rack Stromleiste": "AN"},
           {"Endstufe 1 (oben)": "AN", "_info": "an & warten bis “Temp” (gelb) LEDs"},
           {
