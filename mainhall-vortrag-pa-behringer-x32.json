@@ -58,12 +58,12 @@
         "color": "black",
         "items": [
           {"[HOME] Knopf": "DRÜCKEN"},
-          {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "0dB"},
+          {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "-12dB"},
           {"divider": true},
           {"Kanal auswählen”": "DREHKNOPF über 'CHANNEL LEVEL'"},
           {"Kanal fokussieren": "DREHKNOPF DRÜCKEN"},
           {"Mikrofon einpegeln": "CHANNEL LEVEL", "_info": "Bis zu 0dB"},
-          {"MAIN LR VOLUME nachregeln": "(bis 0 dB)", "_info": "Wenn bei -10 dB nicht laut genug"},
+          {"MAIN LR VOLUME nachregeln": "(bis 0 dB)", "_info": "Wenn es bei -12 dB nicht laut genug ist."},
           {"Für weitere Mikrofone wiederholen": "Ab 'Kanal auswählen'"}
         ]
       },{
@@ -83,9 +83,9 @@
         "items": [
           {"[SCENES]-Knopf": "DRÜCKEN"},
           {"“Scenes” auswählen": "> DRÜCKEN"},
-          {"Scene 01 MAIN-DONT CHANGE": "DREHKNOPF 1 DREHEN"},
-          {"“LOAD” ": "DREHKOPF 1 DRÜCKEN"},
-          {"“CONFIRM”": "DREHKOPF 6 DRÜCKEN"},
+          {"Scene 01 “MAIN-DONT CHANGE” anwählen": "DREHK-ENCODER 1 DREHEN"},
+          {"“LOAD” ": "DREH-ENCODER 1 DRÜCKEN"},
+          {"“CONFIRM”": "DREH-ENCODER 6 DRÜCKEN"},
           {"divider": true},
           {"Mixer am Netzschalter": "AUS"}
         ]
