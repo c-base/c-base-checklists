@@ -60,7 +60,7 @@
           {"[HOME] Knopf": "DRÜCKEN"},
           {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "-12dB"},
           {"divider": true},
-          {"Kanal auswählen”": "DREHKNOPF über 'CHANNEL LEVEL'"},
+          {"Kanal auswählen”": "DREHKNOPF über 'CHANNEL LEVEL'", "image": {"src": "https://raw.githubusercontent.com/c-base/c-base-checklists/e870c4c1a50505637309b6d61d826afb70517ac1/channelevel.jpg", "width": "25%"}},
           {"Kanal fokussieren": "DREHKNOPF DRÜCKEN"},
           {"Mikrofon einpegeln": "CHANNEL LEVEL", "_info": "Bis zu 0dB"},
           {"MAIN LR VOLUME nachregeln": "(bis 0 dB)", "_info": "Wenn es bei -12 dB nicht laut genug ist."},
