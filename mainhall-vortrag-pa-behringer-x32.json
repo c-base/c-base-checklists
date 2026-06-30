@@ -4,13 +4,25 @@
     "date": "PRE-RELEASE, Juni 2026",
     "sections": [
       {
-        "title": "ANLAGE EINSCHALTEN",
+        "title": "X32 einschalten und SCENE laden",
         "items": [
           {"Behringer X32 Rack-Mixer, Power Knopf": "ON"},
-          {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true},
+          {"[SCENES]-Knopf": "DRÜCKEN"},
+          {"“Scenes” auswählen": "> DRÜCKEN"},
+          {"Scene 0 “MAIN-DONT CHANGE” anwählen": "DREHKNOPF 1 drehen"},
+          {"“LOAD” ": "DREHKNOPF 1 DRÜCKEN"},
+          {"“CONFIRM”": "DREHKNOPF 6 DRÜCKEN"}
+        ]
+      },
+      {
+        "title": "Aktivboxen oder Verstärker EINSCHALTEN",
+        "items": [
           {
-            "Aktivboxen einschalten": "vor VORTRAG",
-            "_info": "Netzschalter auf Rückseite der Box - an der Bühne und an Tür zu Arboretum,\n\nEndstufe 1 & 2 nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."},
+            "Aktivboxen einschalten": "bei VORTRAG",
+            "_info": "Netzschalter auf Rückseite der Box - an der Bühne und an Tür zu Arboretum"
+          },
+          {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true,
+           "_info": "Endstufen nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."},
           {"Hinten am Rack Stromleiste AN": "für DJ/KONZERT"},
           {"Endstufe 1 (oben) AN": "für DJ/KONZERT", "_info": "an & warten bis “Temp” (gelb) LEDs"},
           {
@@ -32,11 +44,7 @@
         "color": "black",
         "title": "SCENE laden",
         "items": [
-          {"[SCENES]-Knopf": "DRÜCKEN"},
-          {"“Scenes” auswählen": "> DRÜCKEN"},
-          {"Scene 64 “brikk_MAINHALL”": "ENCODER 1"},
-          {"“LOAD” ": "ENCODER 1 DRÜCKEN"},
-          {"“CONFIRM”": "ENCODER 6 DRÜCKEN"}
+          
         ]
       },{
         "title": "EINPEGELN: PA auf -12 dB",
