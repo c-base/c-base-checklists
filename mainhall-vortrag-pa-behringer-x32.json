@@ -23,6 +23,7 @@
             "Aktivboxen einschalten": "bei VORTRAG",
             "_info": "Netzschalter auf Rückseite der Box - an der Bühne und an Tür zu Arboretum"
           },
+          {"divider": true},
           {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true,
            "_info": "Endstufen nur einschalten, wenn DJ- oder Konzert-Setup benötigt wird."},
           {"Hinten am Rack Stromleiste AN": "für DJ/KONZERT, AN"},
@@ -39,6 +40,7 @@
           {"HAND-MIKRO Ch. 1/2": "ROTER KNOPF", "_info": "4s drücken, auf Mute achten"},
           {"HEADSET-MIKRO Ch. 3/4/5": "AN", "_info": "4s drücken, Funksender ggf. aufklappen, auf Mute achten"},
           {"Batterien in MICs prüfen / ggf. tauschen": "min. 2 BALKEN"},
+          {"divider": true},
           {"PULT, Stereo 9-10": "NACH BEDARF", "_info": "z.B. für Ton oder Video während der Präsentation"},
           {"DJ, Stereo 11-12": "NACH BEDARF", "_info": "2x XLR-Anschluss auf der Bühne, z.B. an Pioneer DJM-500-Mixer"},
           {"Weitere Signalquellen anschl.": "NACH BEDARF"}
