@@ -8,16 +8,15 @@
         "items": [
           {"Behringer X32 Rack-Mixer, Power Knopf": "ON"},
           {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true},
-          {"Aktivboxen einschalten": "",
-          "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"}
-          {"Hinten am Rack Stromleiste": ""},
+          {
+            "Aktivboxen einschalten": "",
+            "_info": "Netzschalter auf Rückseite an (Box an der Bühne und an Tür zu Arboretum)"}
+          {"Hinten am Rack Stromleiste": "AN"},
           {"Endstufe 1 (oben)": "AN", "_info": "an & warten bis “Temp” (gelb) LEDs"},
           {
-            "Endstufe 2 (unten)": "AN", "_info": "an & warten bis “Mute” (rot) LEDs ",
+            "Endstufe 2 (unten)": "AN", "_info": "an & warten bis “Mute” (rot) LEDs "
           },
-          {"_info": "Endstufe 1 & 2 nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."
-        }
-          
+          {"_info": "Endstufe 1 & 2 nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."}
         ]
       },{
         "background": "darkblue",
