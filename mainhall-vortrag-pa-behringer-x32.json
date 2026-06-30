@@ -9,14 +9,14 @@
           {"Behringer X32 Rack-Mixer, Power Knopf": "ON"},
           {"[SCENES]-Knopf": "DRÜCKEN"},
           {"“Scenes” auswählen": "> DRÜCKEN",
-           "_image": {"src": "https://github.com/c-base/c-base-checklists/blob/89541d9f4e0a3d9b7561250484a88a3578b617f5/arrowright.jpg?raw=true", "width": "50%"}},
+           "_image": {"src": "https://github.com/c-base/c-base-checklists/blob/89541d9f4e0a3d9b7561250484a88a3578b617f5/arrowright.jpg?raw=true", "width": "35%"}},
           {"Scene 01 “MAIN-DONT CHANGE” anwählen": "DREH-ENCODER 1 drehen"},
           {
             "“LOAD” ": "DREH-ENCODER 1 DRÜCKEN",
-            "_image": {"src": "https://github.com/c-base/c-base-checklists/blob/89541d9f4e0a3d9b7561250484a88a3578b617f5/encoder01.jpg?raw=true", "width": "50%"}
+            "_image": {"src": "https://github.com/c-base/c-base-checklists/blob/89541d9f4e0a3d9b7561250484a88a3578b617f5/encoder01.jpg?raw=true", "width": "35%"}
           },
           {"“CONFIRM”": "DREH-ENCODER 6 DRÜCKEN",  
-          "_image": {"src": "https://github.com/c-base/c-base-checklists/blob/89541d9f4e0a3d9b7561250484a88a3578b617f5/encoder06.jpg?raw=true", "width": "50%"}}
+          "_image": {"src": "https://github.com/c-base/c-base-checklists/blob/89541d9f4e0a3d9b7561250484a88a3578b617f5/encoder06.jpg?raw=true", "width": "35%"}}
         ]
       },
       {
