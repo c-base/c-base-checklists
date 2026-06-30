@@ -53,18 +53,13 @@
         ]
       },
       {
-        "title": "EINPEGELN: MAIN LR",
+        "title": "EINPEGELN: MAIN LR und MIKROFONE",
         "background": "orange",
         "color": "black",
         "items": [
           {"[HOME] Knopf": "DRÜCKEN"},
           {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "0dB"}
-        ]
-      },{
-        "title": "EINPEGELN: Mikrofone",
-        "background": "orange",
-        "color": "black",
-        "items": [
+          {"divider": true},
           {"Kanal auswählen”": "DREHKNOPF über 'CHANNEL LEVEL'"},
           {"Kanal fokussieren": "DREHKNOPF DRÜCKEN"},
           {"Mikrofon einpegeln": "CHANNEL LEVEL", "_info": "Bis zu 0dB"},
