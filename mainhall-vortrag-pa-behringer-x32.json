@@ -12,7 +12,7 @@
           {"Scene 01 “MAIN-DONT CHANGE” anwählen": "DREHKNOPF 1 drehen"},
           {
             "“LOAD” ": "DREHKNOPF 1 DRÜCKEN",
-            "_image": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burosch_universaltestbild_avec-3840x2160_%283%29.jpg/1280px-Burosch_universaltestbild_avec-3840x2160_%283%29.jpg"}
+            "_image": {"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Burosch_universaltestbild_avec-3840x2160_%283%29.jpg/1280px-Burosch_universaltestbild_avec-3840x2160_%283%29.jpg", "width": "50%"}
           },
           {"“CONFIRM”": "DREHKNOPF 6 DRÜCKEN"}
         ]
