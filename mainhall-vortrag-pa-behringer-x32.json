@@ -17,6 +17,7 @@
       {
         "title": "AKTIVBOXEN oder ENDSTUFEN einschalten",
         "background": "darkseagreen",
+        "color": "black",
         "items": [
           {
             "Aktivboxen einschalten": "bei VORTRAG",
