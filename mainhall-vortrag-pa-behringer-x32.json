@@ -46,20 +46,20 @@
         ]
       },
       {
-        "title": "EINPEGELN: PA auf -12 dB",
+        "title": "EINPEGELN: MAIN LR",
         "background": "orange",
         "color": "black",
         "items": [
           {"[HOME] Knopf": "DRÜCKEN"},
-          {"“MAIN LR VOLUME” einstellen": "-12dB"}
+          {"“MAIN LR LEVEL (Drehknopf rechts) einstellen auf": "0dB"}
         ]
       },{
         "title": "EINPEGELN: Mikrofone",
         "background": "orange",
         "color": "black",
         "items": [
-          {"Kanal auswählen”": "ENCODER über 'CHANNEL LEVEL'"},
-          {"Kanal fokussieren": "ENCODER DRÜCKEN"},
+          {"Kanal auswählen”": "DREHKNOPF über 'CHANNEL LEVEL'"},
+          {"Kanal fokussieren": "DREHKNOPF DRÜCKEN"},
           {"Mikrofon einpegeln": "CHANNEL LEVEL", "_info": "Bis zu 0dB"},
           {"MAIN LR VOLUME nachregeln": "(bis 0 dB)", "_info": "Wenn bei -10 dB nicht laut genug"},
           {"Für weitere Mikrofone wiederholen": "Ab 'Kanal auswählen'"}
@@ -77,13 +77,13 @@
           {"Andere Signalquellen": "AUS/AB"}
         ]
       },{
-        "title": "MIXER-RESET und AUSSCHALTEN",
+        "title": "X32 MIXER-RESET und AUSSCHALTEN",
         "items": [
           {"[SCENES]-Knopf": "DRÜCKEN"},
           {"“Scenes” auswählen": "> DRÜCKEN"},
-          {"Scene 64 “brikk_MAINHALL”": "ENCODER 1"},
-          {"“LOAD” ": "ENCODER 1 DRÜCKEN"},
-          {"“CONFIRM”": "ENCODER 6 DRÜCKEN"},
+          {"Scene 01 MAIN-DONT CHANGE": "DREHKNOPF 1 DREHEN"},
+          {"“LOAD” ": "DREHNKOPF 1 DRÜCKEN"},
+          {"“CONFIRM”": "DREHNKOPF 6 DRÜCKEN"},
           {"divider": true},
           {"Mixer am Netzschalter": "AUS"}
         ]
