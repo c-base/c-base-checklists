@@ -84,8 +84,8 @@
           {"[SCENES]-Knopf": "DRÜCKEN"},
           {"“Scenes” auswählen": "> DRÜCKEN"},
           {"Scene 01 MAIN-DONT CHANGE": "DREHKNOPF 1 DREHEN"},
-          {"“LOAD” ": "DREHNKOPF 1 DRÜCKEN"},
-          {"“CONFIRM”": "DREHNKOPF 6 DRÜCKEN"},
+          {"“LOAD” ": "DREHKOPF 1 DRÜCKEN"},
+          {"“CONFIRM”": "DREHKOPF 6 DRÜCKEN"},
           {"divider": true},
           {"Mixer am Netzschalter": "AUS"}
         ]
