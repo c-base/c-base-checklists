@@ -10,7 +10,7 @@
           {"Verstärker im Mini-Rack": "in REIHENFOLGE ↓", "_uncheckable": true},
           {
             "Aktivboxen einschalten": "vor VORTRAG",
-            "_info": "Netzschalter auf Rückseite der Box - an der Bühne und an Tür zu Arboretum, Endstufe 1 & 2 nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."},
+            "_info": "Netzschalter auf Rückseite der Box - an der Bühne und an Tür zu Arboretum,\n\nEndstufe 1 & 2 nur einschalten, wenn DJ- oder Konzert-Setup benätigt wird."},
           {"Hinten am Rack Stromleiste AN": "für DJ/KONZERT"},
           {"Endstufe 1 (oben) AN": "für DJ/KONZERT", "_info": "an & warten bis “Temp” (gelb) LEDs"},
           {
